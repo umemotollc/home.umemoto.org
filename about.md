@@ -28,26 +28,28 @@ permalink: /about-llc/
 - 録音物(CD、レコード）の制作および楽譜の販売
 
 ### 役員および実質的支配者
-- 代表社員 梅本聖  （電子メール HIJIRI @ UMEMOTO.ORG）
+- 代表社員 梅本聖
 - 業務執行社員 [梅本佑利][yuriumemoto]
 -（上記以外の実質的支配者なし）
 
-### 関連企業（直接の資本関係）
-- [合同会社無名][mumyo]
-
 ### 主な取引先
-- アマゾンジャパン合同会社 [(http://www.amazon.co.jp/gp/browse.html?me=A15GCPUKNCLGDU)][amazonseller]
-- Tower Pro Pte Ltd. (中国) 
-- Farnell/Element14  
-- 教育機関、電子部品商社
 - 一般社団法人日本音楽著作権協会(JASRAC)
 - 株式会社KAJIMOTO
 - 放送局、音楽ホール指定管理者等
+- 教育機関、電子部品商社
+- アマゾンジャパン合同会社 [(http://www.amazon.co.jp/gp/browse.html?me=A15GCPUKNCLGDU)][amazonseller]
+- Tower Pro Pte Ltd. (中国) 
+- Farnell/Element14  
 
 ### 取引金融機関
 - りそな銀行九段支店
 - 福岡銀行東京支店
 - 三井住友銀行神田支店
+
+### 沿革
+- 2014年12月26日 当社設立
+- 2023年11月7日 合同会社無名設立
+- 2025年7月20日 当社を存続会社として、[合同会社無名][mumyo]を合併
 
 [mumyo]: https://mumyo.org/
 [yuriumemoto]: https://www.yuriumemoto.com/
